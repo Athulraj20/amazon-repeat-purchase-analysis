@@ -1,0 +1,23 @@
+{
+  "training_shoppers": 3356,
+  "test_shoppers": 507,
+  "shortlist_budget": 101,
+  "always_return_accuracy": 0.7021696252465484,
+  "xgboost_accuracy": 0.7021696252465484,
+  "xgboost_confusion_matrix": [
+    [
+      0,
+      151
+    ],
+    [
+      0,
+      356
+    ]
+  ],
+  "nonreturn_average_precision": 0.31313476322014894,
+  "nonreturn_base_rate": 0.2978303747534517,
+  "nonreturners_captured_xgboost": 32,
+  "nonreturners_captured_spending_rule": 34,
+  "xgboost_shortlist_nonreturn_rate": 0.31683168316831684,
+  "xgboost_shortlist_lift": 1.063799095141302
+}
