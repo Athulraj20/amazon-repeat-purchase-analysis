@@ -1,6 +1,7 @@
 # Amazon Repeat Purchase Analysis and Prediction
 
 A data analytics portfolio project that studies whether Amazon shoppers buy again, when they return, and how much they spend over the next 90 days. It uses MySQL for cohort analysis, Power BI for reporting, and Python for model evaluation.
+<img width="1161" height="650" alt="amazon analysis" src="https://github.com/user-attachments/assets/22c331e8-8015-4e59-8988-6ffbb286805d" />
 
 ## Data and methodology
 
